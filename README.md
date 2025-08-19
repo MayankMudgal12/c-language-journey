@@ -1,5 +1,5 @@
 # c-language-journey
- A repository to track my Python learning journey 🚀
+ A repository to track my C learning journey 🚀
 # Chapter 1 – Introduction to C
 
 In this chapter, I learned the basic building blocks of the C programming language.  
