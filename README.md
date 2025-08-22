@@ -20,12 +20,34 @@ The focus was on understanding how a simple C program is structured and how to w
 ### 💻 Code Files
  
 - [area of circle.c.c](https://github.com/user-attachments/files/21813446/area.of.circle.c.c)
- 
- 
-
-
 - [area of square.c](https://github.com/user-attachments/files/21813444/area.of.square.c)
   
 
 This is the first step of my C learning journey. 🚀  
 I will keep updating this repository with each chapter I complete.  
+
+
+
+# CHAPTER 2 – INSTRUCTIONS & OPERATORS (C LANGUAGE)
+
+Today I studied Instructions and Operators in C:
+
+- Instructions → Type declaration, Arithmetic, Control (sequence, decision, loop, case).
+
+- Operators → Arithmetic, Relational, Logical, Assignment, Bitwise, Ternary.
+
+- Operator Precedence & Associativity → Rules that decide execution order in expressions.
+
+I also solved the following problems in C:
+
+1. Write a program to check if a number is divisible by 2 or not.
+[Q1.c](https://github.com/user-attachments/files/21941756/Q1.c) 
+
+2. Write a program to print the average of 3 numbers.
+[Q2.c](https://github.com/user-attachments/files/21941759/Q2.c)
+
+
+3. Write a program to check if a given character is a digit or not.
+ 
+[Q3.C](https://github.com/user-attachments/files/21941763/Q3.C)
+
