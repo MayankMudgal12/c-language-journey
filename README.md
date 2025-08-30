@@ -51,3 +51,19 @@ I also solved the following problems in C:
  
 [Q3.C](https://github.com/user-attachments/files/21941763/Q3.C)
 
+## C Programming: Conditional Statements — Chapter Completion and Practice
+I have successfully completed the chapter on Conditional Statements in C programming. This chapter enhanced my understanding of decision-making structures such as if, else if, and else statements, which are fundamental for controlling the flow of a program based on conditions.
+
+As part of my practice, I solved four programming questions that reinforced the concepts learned:
+
+Pass/Fail Check: A simple program to check if marks scored are greater than 30 to determine pass or fail.
+
+Grade Assignment: Program to assign grades based on marks using multiple if-else if statements.
+
+Uppercase Check: A program to check if an entered character is an uppercase alphabet.
+
+Armstrong Number: A program to check if a three-digit number is an Armstrong number by summing the cubes of its digits.
+
+These solutions involved the use of conditional branching, logical operators, and basic input/output operations.
+
+
