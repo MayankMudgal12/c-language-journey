@@ -68,3 +68,25 @@ Q4 Armstrong Number: A program to check if a three-digit number is an Armstrong 
 These solutions involved the use of conditional branching, logical operators, and basic input/output operations.
 
 
+# C Programming: Chapter 4 - Loops
+
+I've completed Chapter 4 of my C programming journey, focusing on mastering loops. This repository contains the code for the practice problems I solved to solidify my understanding of `for`, `while`, and `do-while` loops, as well as the `break` and `continue` statements.
+
+---
+
+### **Problems Solved**
+
+-   `Q1.c`: A basic `while` loop to print numbers up to a user-defined input.
+-   `Q2.c`: A `do-while` loop used to calculate the sum of numbers up to a given integer.
+-   `Q3.c` & `Q4.c`: Demonstrations of the `break` statement to exit a `do-while` loop based on specific user input (odd number or multiple of 7).
+-   `Q5.c`: An example of the `continue` statement inside a `for` loop to skip iterations and print only odd numbers.
+-   `Q6.c`: A `for` loop to calculate the factorial of a number.
+
+Feel free to explore the code and see how these fundamental looping concepts are applied.
+
+---
+
+### **Languages & Tools**
+
+-   C Language
+-   GCC Compiler
