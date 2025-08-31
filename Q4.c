@@ -1,30 +1,18 @@
 #include <stdio.h>
-#include <math.h>
 
 int main() {
-    int num, originalnum,sum, d1 ,d2, d3;
+    int n;
+   do{
     printf("enter the number: ");
-    scanf("%d", &num);
+    scanf("%d", &n);
+     
 
-    originalnum = num;
-
-    d1 = num%10;
-    num = num/10;
-
-    d2 = num%10;
-    num = num/10;
-
-    d3 = num%10;
-    num = num/10;
-
-    sum = pow(d1,3) + pow(d2,3) + pow(d3,3);
-
-    if ( originalnum == sum){
-        printf("number is armstrong");
+    if (n%7 == 0){
+        break;
     }
-    else{
-        printf("number is not armstrong");
-    }
+
+   }while(1);
+ printf("game over");
     return 0;
 
 }

@@ -1,15 +1,18 @@
 #include <stdio.h>
 
 int main() {
-    char alpha;
-    printf("enter the character");
-    scanf("%s", &alpha);
+    int n;
+   do{
+    printf("enter the number: ");
+    scanf("%d", &n);
+     
 
-    if ( alpha >= 'A' && alpha <= 'Z') {
-        printf("character is in upercase");
+    if (n%2 != 0){
+        break;
     }
-    else{ 
-        printf("character is not in uppercase");
-    }
+
+   }while(1);
+ printf("game over");
     return 0;
+
 }
